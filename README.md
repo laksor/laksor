@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @laksor
 - 👀 I’m interested in ...front end web developer role
 - 🌱 I’m currently learning ...javascript, react js, css, html, bootstrap , nodejs
-- 💞️ I’m looking to collaborate on ...gothub
+- 💞️ I’m looking to collaborate on ...github or any other platfrom
 - 📫 How to reach me ...email>al.moksud@gmail.com
 
 <!---
