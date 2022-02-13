@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Ahmed laksor
-- 👀 I’m interested in ...front end web developer role
+- 👀 I’m interested in ...front end web development
 - 🌱 I’m currently learning ...javascript, react js, css, html, bootstrap , nodejs
-- 💞️ I’m looking to collaborate on ...github or any other platfrom
-- 📫 How to reach me ...email > al.moksud@gmail.com
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
 
 <!---
 laksor/laksor is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
