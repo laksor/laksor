@@ -10,8 +10,6 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=laksor&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&ring=DD2727)](https://git.io/streak-stats)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=laskor&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=56050530&stroke=DD2727&border=DD2727&ring=DD2727&fire=43DD0E&currStreakNum=DD2727)](https://git.io/streak-stats)
-
 
 
 
